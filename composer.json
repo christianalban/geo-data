@@ -1,0 +1,18 @@
+{
+    "name": "alban/geo-data",
+    "description": "Library to get a list of Provinces and Cantons of Ecuador",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alban\\GeoData\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christian Albán",
+            "email": "christianalbanctdb1d@gmail.com"
+        }
+    ],
+    "require": {}
+}

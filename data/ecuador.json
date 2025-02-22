@@ -1,0 +1,272 @@
+{
+  "country": "Ecuador",
+  "states": [
+    {
+      "name": "Azuay",
+      "cities": [
+        "Cuenca",
+        "Girón",
+        "Gualaceo",
+        "Nabón",
+        "Paute",
+        "Pucará",
+        "San Fernando",
+        "Santa Isabel",
+        "Sevilla de Oro"
+      ]
+    },
+    {
+      "name": "Bolívar",
+      "cities": [
+        "Guaranda",
+        "Caluma",
+        "Chillanes",
+        "Las Naves",
+        "San Miguel"
+      ]
+    },
+    {
+      "name": "Cañar",
+      "cities": [
+        "Azogues",
+        "Biblián",
+        "Cañar",
+        "Déleg",
+        "El Tambo"
+      ]
+    },
+    {
+      "name": "Carchi",
+      "cities": [
+        "Tulcán",
+        "Bolívar",
+        "Espejo",
+        "Mira",
+        "Montúfar"
+      ]
+    },
+    {
+      "name": "Chimborazo",
+      "cities": [
+        "Riobamba",
+        "Alausí",
+        "Colta",
+        "Chambo",
+        "Guamote",
+        "Guano"
+      ]
+    },
+    {
+      "name": "Cotopaxi",
+      "cities": [
+        "Latacunga",
+        "La Maná",
+        "Pangua",
+        "Pujilí",
+        "Salcedo"
+      ]
+    },
+    {
+      "name": "El Oro",
+      "cities": [
+        "Machala",
+        "Arenillas",
+        "Atahualpa",
+        "Balsas",
+        "Chilla",
+        "El Guabo",
+        "Huaquillas",
+        "La Troncal",
+        "Pasaje",
+        "Piñas",
+        "Portovelo",
+        "Santa Rosa",
+        "Zaruma"
+      ]
+    },
+    {
+      "name": "Esmeraldas",
+      "cities": [
+        "Esmeraldas",
+        "Eloy Alfaro",
+        "Muisne",
+        "Quinindé",
+        "Río Verde"
+      ]
+    },
+    {
+      "name": "Galápagos",
+      "cities": [
+        "San Cristóbal",
+        "Isabela",
+        "Santa Cruz"
+      ]
+    },
+    {
+      "name": "Guayas",
+      "cities": [
+        "Guayaquil",
+        "Daule",
+        "Samborondón",
+        "Durán",
+        "Milagro",
+        "Playas",
+        "Puerto Wilches",
+        "Salitre"
+      ]
+    },
+    {
+      "name": "Imbabura",
+      "cities": [
+        "Ibarra",
+        "Antonio Ante",
+        "Cotacachi",
+        "Otavalo",
+        "Pimampiro",
+        "Urcuquí"
+      ]
+    },
+    {
+      "name": "Loja",
+      "cities": [
+        "Loja",
+        "Catamayo",
+        "Chaguarpamba",
+        "Macará",
+        "Olmedo",
+        "Puyango",
+        "Quilanga",
+        "Saraguro"
+      ]
+    },
+    {
+      "name": "Los Ríos",
+      "cities": [
+        "Babahoyo",
+        "Montalvo",
+        "Quevedo",
+        "Vinces",
+        "Urdaneta",
+        "Ventanas",
+        "Buena Fe",
+        "Mocache",
+        "Palenque"
+      ]
+    },
+    {
+      "name": "Manabí",
+      "cities": [
+        "Portoviejo",
+        "Manta",
+        "Jipijapa",
+        "Montecristi",
+        "Sucre",
+        "Pedernales",
+        "Rocafuerte",
+        "Junín",
+        "El Carmen",
+        "Bolívar",
+        "Chone",
+        "Jama",
+        "Jaramijó"
+      ]
+    },
+    {
+      "name": "Morona Santiago",
+      "cities": [
+        "Morona",
+        "Gualaquiza",
+        "Huamboya",
+        "Limón Indanza",
+        "Palora",
+        "San Juan Bosco"
+      ]
+    },
+    {
+      "name": "Napo",
+      "cities": [
+        "Tena",
+        "Archidona",
+        "Carlos Julio Arosemena Tola",
+        "El Chaco",
+        "Quijos"
+      ]
+    },
+    {
+      "name": "Orellana",
+      "cities": [
+        "Francisco de Orellana",
+        "Joya de los Sachas",
+        "Loreto",
+        "Putumayo"
+      ]
+    },
+    {
+      "name": "Pastaza",
+      "cities": [
+        "Puyo",
+        "Mera",
+        "Santa Clara"
+      ]
+    },
+    {
+      "name": "Pichincha",
+      "cities": [
+        "Quito",
+        "Cayambe",
+        "Mejía",
+        "Pedro Moncayo",
+        "Rumiñahui",
+        "San Miguel de los Bancos"
+      ]
+    },
+    {
+      "name": "Santa Elena",
+      "cities": [
+        "Santa Elena",
+        "La Libertad",
+        "Salinas"
+      ]
+    },
+    {
+      "name": "Santo Domingo de los Tsáchilas",
+      "cities": [
+        "Santo Domingo",
+        "La Concordia"
+      ]
+    },
+    {
+      "name": "Sucumbíos",
+      "cities": [
+        "Nueva Loja",
+        "Gonzalo Pizarro",
+        "Cuyabeno",
+        "Cascales"
+      ]
+    },
+    {
+      "name": "Tungurahua",
+      "cities": [
+        "Ambato",
+        "Baños de Agua Santa",
+        "Cevallos",
+        "Mocha",
+        "Patate",
+        "Pelileo",
+        "Quero",
+        "San Pedro de Pelileo"
+      ]
+    },
+    {
+      "name": "Zamora Chinchipe",
+      "cities": [
+        "Zamora",
+        "Centinela del Cóndor",
+        "Chinchipe",
+        "El Pangui",
+        "Nangaritza"
+      ]
+    }
+  ]
+}
+
