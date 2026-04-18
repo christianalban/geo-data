@@ -18,9 +18,9 @@
     {
       "name": "Bolívar",
       "cities": [
-        "Guaranda",
         "Caluma",
         "Chillanes",
+        "Guaranda",
         "Las Naves",
         "San Miguel"
       ]
@@ -38,29 +38,29 @@
     {
       "name": "Carchi",
       "cities": [
-        "Tulcán",
         "Bolívar",
         "Espejo",
         "Mira",
-        "Montúfar"
+        "Montúfar",
+        "Tulcán"
       ]
     },
     {
       "name": "Chimborazo",
       "cities": [
-        "Riobamba",
         "Alausí",
-        "Colta",
         "Chambo",
+        "Colta",
         "Guamote",
-        "Guano"
+        "Guano",
+        "Riobamba"
       ]
     },
     {
       "name": "Cotopaxi",
       "cities": [
-        "Latacunga",
         "La Maná",
+        "Latacunga",
         "Pangua",
         "Pujilí",
         "Salcedo"
@@ -69,7 +69,6 @@
     {
       "name": "El Oro",
       "cities": [
-        "Machala",
         "Arenillas",
         "Atahualpa",
         "Balsas",
@@ -77,6 +76,7 @@
         "El Guabo",
         "Huaquillas",
         "La Troncal",
+        "Machala",
         "Pasaje",
         "Piñas",
         "Portovelo",
@@ -87,8 +87,8 @@
     {
       "name": "Esmeraldas",
       "cities": [
-        "Esmeraldas",
         "Eloy Alfaro",
+        "Esmeraldas",
         "Muisne",
         "Quinindé",
         "Río Verde"
@@ -97,30 +97,30 @@
     {
       "name": "Galápagos",
       "cities": [
-        "San Cristóbal",
         "Isabela",
+        "San Cristóbal",
         "Santa Cruz"
       ]
     },
     {
       "name": "Guayas",
       "cities": [
-        "Guayaquil",
         "Daule",
-        "Samborondón",
         "Durán",
+        "Guayaquil",
         "Milagro",
         "Playas",
         "Puerto Wilches",
-        "Salitre"
+        "Salitre",
+        "Samborondón"
       ]
     },
     {
       "name": "Imbabura",
       "cities": [
-        "Ibarra",
         "Antonio Ante",
         "Cotacachi",
+        "Ibarra",
         "Otavalo",
         "Pimampiro",
         "Urcuquí"
@@ -129,9 +129,9 @@
     {
       "name": "Loja",
       "cities": [
-        "Loja",
         "Catamayo",
         "Chaguarpamba",
+        "Loja",
         "Macará",
         "Olmedo",
         "Puyango",
@@ -143,41 +143,42 @@
       "name": "Los Ríos",
       "cities": [
         "Babahoyo",
-        "Montalvo",
-        "Quevedo",
-        "Vinces",
-        "Urdaneta",
-        "Ventanas",
         "Buena Fe",
         "Mocache",
-        "Palenque"
+        "Montalvo",
+        "Palenque",
+        "Quevedo",
+        "Urdaneta",
+        "Ventanas",
+        "Vinces"
       ]
     },
     {
       "name": "Manabí",
       "cities": [
-        "Portoviejo",
-        "Manta",
-        "Jipijapa",
-        "Montecristi",
-        "Sucre",
-        "Pedernales",
-        "Rocafuerte",
-        "Junín",
-        "El Carmen",
         "Bolívar",
         "Chone",
+        "El Carmen",
         "Jama",
-        "Jaramijó"
+        "Jaramijó",
+        "Jipijapa",
+        "Junín",
+        "Manta",
+        "Montecristi",
+        "Pedernales",
+        "Portoviejo",
+        "Puerto López",
+        "Rocafuerte",
+        "Sucre"
       ]
     },
     {
       "name": "Morona Santiago",
       "cities": [
-        "Morona",
         "Gualaquiza",
         "Huamboya",
         "Limón Indanza",
+        "Morona",
         "Palora",
         "San Juan Bosco"
       ]
@@ -185,11 +186,11 @@
     {
       "name": "Napo",
       "cities": [
-        "Tena",
         "Archidona",
         "Carlos Julio Arosemena Tola",
         "El Chaco",
-        "Quijos"
+        "Quijos",
+        "Tena"
       ]
     },
     {
@@ -204,18 +205,18 @@
     {
       "name": "Pastaza",
       "cities": [
-        "Puyo",
         "Mera",
+        "Puyo",
         "Santa Clara"
       ]
     },
     {
       "name": "Pichincha",
       "cities": [
-        "Quito",
         "Cayambe",
         "Mejía",
         "Pedro Moncayo",
+        "Quito",
         "Rumiñahui",
         "San Miguel de los Bancos"
       ]
@@ -223,25 +224,25 @@
     {
       "name": "Santa Elena",
       "cities": [
-        "Santa Elena",
         "La Libertad",
-        "Salinas"
+        "Salinas",
+        "Santa Elena"
       ]
     },
     {
       "name": "Santo Domingo de los Tsáchilas",
       "cities": [
-        "Santo Domingo",
-        "La Concordia"
+        "La Concordia",
+        "Santo Domingo"
       ]
     },
     {
       "name": "Sucumbíos",
       "cities": [
-        "Nueva Loja",
-        "Gonzalo Pizarro",
+        "Cascales",
         "Cuyabeno",
-        "Cascales"
+        "Gonzalo Pizarro",
+        "Nueva Loja"
       ]
     },
     {
@@ -260,13 +261,12 @@
     {
       "name": "Zamora Chinchipe",
       "cities": [
-        "Zamora",
         "Centinela del Cóndor",
         "Chinchipe",
         "El Pangui",
-        "Nangaritza"
+        "Nangaritza",
+        "Zamora"
       ]
     }
   ]
 }
-
